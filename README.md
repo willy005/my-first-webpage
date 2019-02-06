@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # My first Website
 #### It is supposed to act as a step stone to the great things i will be doing in just a matter of time,The version is valid from "Wednesday 6 February 2019"
 #### *By Willy_kid under Moringa school fraternity*
